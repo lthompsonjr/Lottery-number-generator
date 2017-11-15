@@ -81,34 +81,47 @@
 //  }
 //}
 
-import akka.actor.{ ActorSystem, Actor, ActorRef, Props, PoisonPill }
-import language.postfixOps
+import java.io.File
+import java.nio.file.Path
+
+import akka.actor.{Actor, ActorRef, ActorSystem, PoisonPill, Props}
+import akka.http.scaladsl.model.{ContentTypes, HttpEntity, MediaTypes}
+import akka.http.scaladsl.server.ContentNegotiator.Alternative.ContentType
+import io.swagger.jaxrs2.Reader
+import io.swagger.oas.models.OpenAPI
+import io.swagger.oas.models.servers.Server
+
+import scala.util.control.NonFatal
+import io.swagger.util.Json
+
+import scala.collection.JavaConverters._
+//import language.postfixOps
 import scala.concurrent.duration._
 
 
 
-case object Rant
-case object Rave
+//case object Rant
+//case object Rave
 //case object Ping
 //case object Pong
 
 
 
-class Raver extends Actor {
-  def receive = {
-    case Rant =>
-      println(s"${self.path} I just received rant message")
-      //sender ! Rave
-  }
-}
-
-class Ranter(message:String) extends Actor {
-  def receive = {
-    case Rave =>
-      println(s"${self.path} I just received a rave $message")
-      sender ! Rant
-  }
-}
+//class Raver extends Actor {
+//  def receive = {
+//    case Rant =>
+//      println(s"${self.path} I just received rant message")
+//      //sender ! Rave
+//  }
+//}
+//
+//class Ranter(message:String) extends Actor {
+//  def receive = {
+//    case Rave =>
+//      println(s"${self.path} I just received a rave $message")
+//      sender ! Rant
+//  }
+//}
 
 
 
@@ -139,35 +152,106 @@ class Ranter(message:String) extends Actor {
 
 
 
-object myApp extends App {
-
-  //val emailClient = new Email()
-  //emailClient.sendEmail(EuroMillions.euroMillionsMessage +"\n" + Lotto.LottoMessage)
-//  val json =
-//    """{
-//      |"name":"Louis"
-//      |}""".stripMargin
+//object myApp extends App {
 //
-//  val test: Try[String] = for {
-//    y <- Try(parse(json))
-//    x <- compact(render(y))
-//  } yield x
+//  //val emailClient = new Email()
+//  //emailClient.sendEmail(EuroMillions.euroMillionsMessage +"\n" + Lotto.LottoMessage)
+////  val json =
+////    """{
+////      |"name":"Louis"
+////      |}""".stripMargin
+////
+////  val test: Try[String] = for {
+////    y <- Try(parse(json))
+////    x <- compact(render(y))
+////  } yield x
+////
+////  test match {
+////    case Success(message) => println(message)
+////    case Failure(ex) => println(ex)
+////  }
+//  val system = ActorSystem("rantrave")
 //
-//  test match {
-//    case Success(message) => println(message)
-//    case Failure(ex) => println(ex)
-//  }
-  val system = ActorSystem("rantrave")
+//  val ranter = system.actorOf(Props(classOf[Ranter], "message"), "ranter")
+//
+//  val raver = system.actorOf(Props[Raver],"raver")
+//
+//  ranter.tell(Rave,raver)
+//
+//
+//  //import system.dispatcher
+//  //system.scheduler.scheduleOnce(500 millis) {
+//  //}
+//}
 
-  val ranter = system.actorOf(Props(classOf[Ranter], "message"), "ranter")
-
-  val raver = system.actorOf(Props[Raver],"raver")
-
-  ranter.tell(Rave,raver)
 
 
-  //import system.dispatcher
-  //system.scheduler.scheduleOnce(500 millis) {
-  //}
+
+import akka.actor.ActorSystem
+import akka.http.scaladsl.Http
+import akka.http.scaladsl.server.Directives._
+import akka.http.scaladsl.model.StatusCodes.OK
+import akka.stream.ActorMaterializer
+import scala.io.StdIn
+
+object Lotto extends App {
+
+  implicit val system = ActorSystem("swagger-docs")
+  implicit val materializer = ActorMaterializer()
+  // needed for the future flatMap/onComplete in the end
+  implicit val executionContext = system.dispatcher
+
+
+  def reader = new Reader(new OpenAPI())
+
+  def generateSwaggerJson(clazz: Class[_], host: String): String = {
+    try {
+      val swagger: OpenAPI = reader.read(clazz)
+        //.servers(List(new Server().url(host)).asJava)
+      Json.pretty().writeValueAsString(swagger)
+    } catch {
+      case NonFatal(t) =>
+        throw t
+    }
+  }
+
+  val swaggerRoute =
+    pathPrefix("swagger") {
+      pathEndOrSingleSlash {
+        getFromResource("swagger-ui/index.html")
+      } ~ {
+        getFromResourceDirectory("swagger-ui")
+      } ~ pathPrefix("webjars") {
+        getFromResourceDirectory("META-INF/resources/webjars")
+      }
+    }
+
+  //serves json to be used in index.html
+  val docsRoute =
+    path("api-docs"/"swagger.json") {
+    get {
+      //complete(HttpEntity(ContentTypes.`text/plain(UTF-8)`, "hello"))
+      complete(HttpEntity(
+      MediaTypes.`application/json`, generateSwaggerJson(classOf[RouterDocs], "http://localhost:8080")
+      ))
+    }
+  }
+
+  val statusRoute = get {
+    path("private" / "status") {
+      complete(OK)
+    }
+  }
+
+
+  //val test = classOf[RouterDocs]
+  val routes = swaggerRoute ~ statusRoute ~ docsRoute
+
+    val bindingFuture = Http().bindAndHandle(routes, "localhost", 8080)
+    println(s"Server online at http://localhost:8080/\nPress RETURN to stop...")
+    StdIn.readLine() // let it run until user presses return
+    bindingFuture
+
+      .flatMap(_.unbind()) // trigger unbinding from the port
+      .onComplete(_ => system.terminate()) // and shutdown when done
 }
-
