@@ -1,0 +1,335 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes/com/louis/lottogenerator/LottoDocs$.class
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes/com/louis/lottogenerator/LottoDocs$delayedInit$body.class
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes/com/louis/lottogenerator/LottoDocs.class
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> /Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes/com/louis/lottogenerator/RouterDocs.class
+binary dependencies:
+15 items
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.9.1.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.19.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.10.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.10.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.19.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/io.swagger/swagger-core/bundles/swagger-core-2.0.0-rc2.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/io.swagger/swagger-jaxrs2/bundles/swagger-jaxrs2-2.0.0-rc2.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/io.swagger/swagger-models/bundles/swagger-models-2.0.0-rc2.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /Users/lth09/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> /Users/lth09/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.10.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> /Users/lth09/.ivy2/cache/io.swagger/swagger-annotations/bundles/swagger-annotations-2.0.0-rc2.jar
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> /Users/lth09/.ivy2/cache/javax.ws.rs/javax.ws.rs-api/jars/javax.ws.rs-api-2.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> com.louis.lottogenerator.LottoDocs
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> com.louis.lottogenerator.LottoDocs$
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> com.louis.lottogenerator.LottoDocs$delayedInit$body
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> com.louis.lottogenerator.RouterDocs
+used names:
+211 items
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> /
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> <byname>
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> <init>
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> <refinement>
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> <repeated>
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ?0
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> A
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ActorMaterializer
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ActorMaterializerSettings
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ActorRefFactory
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ActorSystem
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Any
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> App
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Boolean
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Class
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ClassLoader
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ConnectionContext
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ContentType
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ContentTypeResolver
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Default
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Directive
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Directive0
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Directives
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ExceptionHandler
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ExecutionContext
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ExecutionContextExecutor
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Flow
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Function1
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Future
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Http
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> HttpEntity
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> HttpExt
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> HttpRequest
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> HttpResponse
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Int
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Join
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> JoinAux
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Json
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> L
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Logger
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> LoggerFactory
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> LoggingAdapter
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> LottoDocs
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Marshaller
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Materializer
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> MediaType
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> MediaTypes
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> MessageEntity
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> MessageEntityMarshaller
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> NonBinary
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> NonFatal
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> NotUsed
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Nothing
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> OK
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Object
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ObjectWriter
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> OpenAPI
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Option
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Out
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ParserSettings
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> PathMatcher
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> PathMatcher0
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Predef
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> R
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Reader
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> RejectionHandler
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Route
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> RouteConcatenation
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> RouteResult
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> RouteWithConcatenation
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> RoutingLog
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> RoutingSettings
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> S
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ServerBinding
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ServerSettings
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> StandardRoute
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> StatusCode
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> StatusCodes
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> StdIn
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Strict
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> String
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> StringContext
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Success
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> T
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> TRM
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Terminated
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Throwable
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ToEntityMarshaller
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ToResponseMarshallable
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ToResponseMarshaller
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Try
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> TupleOps
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> U
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> Unit
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> WithFixedCharset
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> _$1
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> _enhanceRouteWithConcatenation
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> _segmentStringToPathMatcher
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> actor
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> addByNameNullaryApply
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> akka
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> application/json
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> apply
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> bindAndHandle
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> bindingFuture
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> clazz
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> com
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> complete
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> control
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> default
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> directives
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> dispatcher
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> docsRoute
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> executionContext
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> flatMap
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> fromActorSystem
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> fromStatusCode
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> generateRoute
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> generateSwaggerJson
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> get
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> getFromResource
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> getFromResourceDirectory
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> getLogger
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> http
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> info
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> io
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> isEmpty
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> jaxrs2
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> join0P
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> liftMarshaller
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> logger
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> lottogenerator
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> louis
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> marshalling
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> materializer
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> model
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> models
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> oas
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> onComplete
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> org
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> package
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> path
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> pathEndOrSingleSlash
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> pathPrefix
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> pretty
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> qual$1
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> read
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> readLine
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> reader
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> route2HandlerFlow
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> routes
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> s
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> scala
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> scaladsl
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> server
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> settings
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> slf4j
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> statusRoute
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> stream
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> swagger
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> swaggerRoute
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> system
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> t
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> terminate
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> unapply
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> unary_!
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> unbind
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> util
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> writeValueAsString
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$10
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$11
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$12
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$13
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$14
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$15
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$16
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$3
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$4
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$5
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$6
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$7
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$8
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> x$9
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> ~
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> AnyRef
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> ApiResponse
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> Content
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> GET
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> Operation
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> Path
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> Produces
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> Route
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> Schema
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> akka
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> annotations
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> com
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> http
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> io
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> javax
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> lottogenerator
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> louis
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> media
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> oas
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> package
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> responses
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> rs
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> scala
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> scaladsl
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> server
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> swagger
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> ws
+product stamps:
+4 items
+/Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes/com/louis/lottogenerator/LottoDocs$.class -> lastModified(1512269652000)
+/Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes/com/louis/lottogenerator/LottoDocs$delayedInit$body.class -> lastModified(1512269652000)
+/Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes/com/louis/lottogenerator/LottoDocs.class -> lastModified(1512269652000)
+/Users/lth09/Desktop/LotteryGen/docs/target/scala-2.12/classes/com/louis/lottogenerator/RouterDocs.class -> lastModified(1512269652000)
+source stamps:
+2 items
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> hash(92b3a3be970459209e75def02fd40f65538a6e7a)
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> hash(3f2dca515447d98948ea8bddc334c32c93879136)
+binary stamps:
+13 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1466622116000)
+/Users/lth09/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.9.1.jar -> lastModified(1504833042000)
+/Users/lth09/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.19.jar -> lastModified(1497271475000)
+/Users/lth09/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.10.jar -> lastModified(1504190400000)
+/Users/lth09/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.10.jar -> lastModified(1504190418000)
+/Users/lth09/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.19.jar -> lastModified(1497271624000)
+/Users/lth09/.ivy2/cache/io.swagger/swagger-annotations/bundles/swagger-annotations-2.0.0-rc2.jar -> lastModified(1506702441000)
+/Users/lth09/.ivy2/cache/io.swagger/swagger-core/bundles/swagger-core-2.0.0-rc2.jar -> lastModified(1506702477000)
+/Users/lth09/.ivy2/cache/io.swagger/swagger-jaxrs2/bundles/swagger-jaxrs2-2.0.0-rc2.jar -> lastModified(1506702531000)
+/Users/lth09/.ivy2/cache/io.swagger/swagger-models/bundles/swagger-models-2.0.0-rc2.jar -> lastModified(1506702457000)
+/Users/lth09/.ivy2/cache/javax.ws.rs/javax.ws.rs-api/jars/javax.ws.rs-api-2.1.jar -> lastModified(1501859798000)
+/Users/lth09/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> lastModified(1507705630000)
+/Users/lth09/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar -> lastModified(1489682192000)
+class names:
+13 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/lth09/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.9.1.jar -> com.fasterxml.jackson.databind.ObjectWriter
+/Users/lth09/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.4.19.jar -> akka.actor.Terminated
+/Users/lth09/.ivy2/cache/com.typesafe.akka/akka-http-core_2.12/jars/akka-http-core_2.12-10.0.10.jar -> akka.http.scaladsl.model.StatusCodes$
+/Users/lth09/.ivy2/cache/com.typesafe.akka/akka-http_2.12/jars/akka-http_2.12-10.0.10.jar -> akka.http.scaladsl.server.Route$
+/Users/lth09/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/jars/akka-stream_2.12-2.4.19.jar -> akka.stream.ActorMaterializer$
+/Users/lth09/.ivy2/cache/io.swagger/swagger-annotations/bundles/swagger-annotations-2.0.0-rc2.jar -> io.swagger.oas.annotations.media.Content
+/Users/lth09/.ivy2/cache/io.swagger/swagger-core/bundles/swagger-core-2.0.0-rc2.jar -> io.swagger.util.Json
+/Users/lth09/.ivy2/cache/io.swagger/swagger-jaxrs2/bundles/swagger-jaxrs2-2.0.0-rc2.jar -> io.swagger.jaxrs2.Reader
+/Users/lth09/.ivy2/cache/io.swagger/swagger-models/bundles/swagger-models-2.0.0-rc2.jar -> io.swagger.oas.models.OpenAPI
+/Users/lth09/.ivy2/cache/javax.ws.rs/javax.ws.rs-api/jars/javax.ws.rs-api-2.1.jar -> javax.ws.rs.Path
+/Users/lth09/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> scala.App
+/Users/lth09/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.25.jar -> org.slf4j.Logger
+internal apis:
+2 items
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwMg16ewAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBQG+GMdAAQZXhlY3V0aW9uQ29udGV4dHNxAH4AC2r3sE10AAxtYXRlcmlhbGl6ZXJzcQB+AAt0HfhgdAAGc3lzdGVtdXEAfgAJAAAAInNxAH4ACwRxSld0AAZub3RpZnlzcQB+AAswm116dAAJZG9jc1JvdXRlc3EAfgALx/QFTXQABHdhaXRzcQB+AAsX8qlcdAANJGFzSW5zdGFuY2VPZnNxAH4AC1C/JZd0AAZsb2dnZXJzcQB+AAsORPIHdAAGcm91dGVzc3EAfgAL+k6TBHQABnJlYWRlcnNxAH4AC5DDxkV0AAZlcXVhbHNzcQB+AAvgK5zwdAALc3RhdHVzUm91dGVzcQB+AAvcyZFgdAAMYXNJbnN0YW5jZU9mc3EAfgALPp3XwXQADmV4ZWN1dGlvblN0YXJ0c3EAfgALyDQzEHQADHN5bmNocm9uaXplZHNxAH4ACytIogR0AA0kaXNJbnN0YW5jZU9mc3EAfgALBZryPXQADHN3YWdnZXJSb3V0ZXNxAH4ACwT/0Wd0AARtYWluc3EAfgALKx1R93QACW5vdGlmeUFsbHNxAH4AC7n6lcx0AAxpc0luc3RhbmNlT2ZzcQB+AAt5Au5EdAATZ2VuZXJhdGVTd2FnZ2VySnNvbnNxAH4AC7TQpHJ0AAI9PXNxAH4AC+ccYZh0AA1iaW5kaW5nRnV0dXJlc3EAfgAL4rgqsnQABWNsb25lc3EAfgALce3JT3QABiRpbml0JHNxAH4ACz/U+dx0AA1nZW5lcmF0ZVJvdXRlc3EAfgALLEez/3QACHRvU3RyaW5nc3EAfgALg8LLcXQABGFyZ3NzcQB+AAv8AZrRdAACIT1zcQB+AAsMDBNndAAIZ2V0Q2xhc3NzcQB+AAvBVO5ZdAACbmVzcQB+AAu2JbiAdAACZXFzcQB+AAsPX5brdAALZGVsYXllZEluaXRzcQB+AAtTMZg3dAACIyNzcQB+AAsXU1xVdAAIZmluYWxpemVzcQB+AAtKselqdAAIaGFzaENvZGVzcQB+AAumO04BdAAJTG90dG9Eb2Nzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAImNvbS5sb3Vpcy5sb3R0b2dlbmVyYXRvci5Mb3R0b0RvY3N1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgCBc3EAfgB8dXEAfgBcAAAAAHNxAH4AfHVxAH4AXAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AYnEAfgBrdXEAfgBsAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Ai3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCAdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKVzcQB+AG4AcQB+ADF1cQB+AHEAAAAAc3EAfgCYdAAEVW5pdHEAfgCedXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4Ai3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AdHQABVBsYWlucQB+AEVzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJlbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AIBzcQB+AJh0AAVBcnJheXEAfgCedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AJh0AAZTdHJpbmdzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkdAAEamF2YXNxAH4ApHQABGxhbmdxAH4AqXNxAH4AfHVxAH4AwAAAAARzcQB+AJh0AANBcHBxAH4AnnNxAH4AmHQAC0RlbGF5ZWRJbml0cQB+AJ5zcQB+AJh0AAZPYmplY3RxAH4AxHNxAH4AmHQAA0FueXEAfgCedXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAYY29tLmxvdWlzLmxvdHRvZ2VuZXJhdG9yc3EAfgDXdAAJY29tLmxvdWlzc3EAfgDXdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFgGkuSBXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AD4vVXNlcnMvbHRoMDkvRGVza3RvcC9Mb3R0ZXJ5R2VuL2RvY3MvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJKzo76XBFkgnnXe8C/UD2VTim56
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVt7IAwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hws8Dw7nQABm5vdGlmeXNxAH4ADBh0X1J0AAR3YWl0c3EAfgAMEwyKx3QADSRhc0luc3RhbmNlT2ZzcQB+AAzIfHELdAAFbG90dG9zcQB+AAy69nQqdAAGZXF1YWxzc3EAfgAMFOIAaHQADGFzSW5zdGFuY2VPZnNxAH4ADFeBQ810AAxzeW5jaHJvbml6ZWRzcQB+AAyu9hIOdAANJGlzSW5zdGFuY2VPZnNxAH4ADD2H0t90AAlub3RpZnlBbGxzcQB+AAy0XYShdAAMaXNJbnN0YW5jZU9mc3EAfgAMuGBr9HQAClJvdXRlckRvY3NzcQB+AAwUy3agdAACPT1zcQB+AAxMwwEWdAAFY2xvbmVzcQB+AAwI9JNjdAAGc3RhdHVzc3EAfgAMro1WQ3QACHRvU3RyaW5nc3EAfgAM4E6Zy3QAAiE9c3EAfgAM5/mHPHQACGdldENsYXNzc3EAfgAM13JrQ3QAAm5lc3EAfgAMgP/Gd3QAAmVxc3EAfgAM7oniwHQAAiMjc3EAfgAMaVHVYXQACGZpbmFsaXplc3EAfgAMeUIMv3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAI2NvbS5sb3Vpcy5sb3R0b2dlbmVyYXRvci5Sb3V0ZXJEb2NzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAFdAAUamF2YXgud3MucnMuUHJvZHVjZXN0AAxzY2FsYS5uYXRpdmV0ACRpby5zd2FnZ2VyLm9hcy5hbm5vdGF0aW9ucy5PcGVyYXRpb250AA9qYXZheC53cy5ycy5HRVR0ABBqYXZheC53cy5ycy5QYXRoc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBlc3EAfgBgdXEAfgA+AAAAAHNxAH4AYHVxAH4APgAAAABzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAGGNvbS5sb3Vpcy5sb3R0b2dlbmVyYXRvcnNxAH4AjnQACWNvbS5sb3Vpc3NxAH4AjnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYBpLkgV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA+L1VzZXJzL2x0aDA5L0Rlc2t0b3AvTG90dGVyeUdlbi9kb2NzL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ/LcpRVEfZiUjqi93DNMMsk4eRNg==
+external apis:
+0 items
+source infos:
+2 items
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/LottoDocs.scala -> 
+AAAAAAAAAAA=
+/Users/lth09/Desktop/LotteryGen/docs/src/main/scala-2.12/com/louis/lottogenerator/RouterDocs.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYBpLkgV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPi9Vc2Vycy9sdGgwOS9EZXNrdG9wL0xvdHRlcnlHZW4vZG9jcy90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==

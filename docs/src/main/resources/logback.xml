@@ -1,0 +1,23 @@
+<configuration>
+    <!--<property name="defaultPattern" value="[%date{ISO8601}] bookmarking-service %-5level [%thread] %logger{36} - %msg%n" />-->
+    <appender name="DOCUMENTATION" class="ch.qos.logback.core.ConsoleAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+        <pattern>
+        <!--%logger{32}-->
+        %d{HH:mm:ss.SSS} [%thread] %-5level %msg%n
+        </pattern>
+        </layout>
+        <!--<encoder class="net.logstash.logback.encoder.LogstashEncoder"/>-->
+    </appender>
+
+    <logger name="lottoDocs" level="INFO">
+        <appender-ref ref="DOCUMENTATION"/>
+    </logger>
+
+    <root>
+        <level value="OFF"/>
+        <appender-ref ref="STDOUT"/>
+    </root>
+</configuration>
+
+

@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/docs.iml" filepath="$PROJECT_DIR$/.idea/modules/docs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/docs-build.iml" filepath="$PROJECT_DIR$/.idea/modules/docs-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lotterygen.iml" filepath="$PROJECT_DIR$/.idea/modules/lotterygen.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lotterygen-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lotterygen-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-build.iml" filepath="$PROJECT_DIR$/.idea/modules/service-build.iml" />
     </modules>
   </component>
 </project>

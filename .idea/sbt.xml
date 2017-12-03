@@ -8,7 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/docs" />
+            <option value="$PROJECT_DIR$/docs/project" />
             <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/service/project" />
           </set>
         </option>
         <option name="resolveSbtClassifiers" value="true" />
